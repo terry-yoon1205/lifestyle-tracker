@@ -1,0 +1,98 @@
+{
+  "name": "General",
+  "sex": false,
+  "age": 19,
+  "height": 165,
+  "weight": 55,
+  "activity": "MODERATELY_ACTIVE",
+  "weight goal": 60,
+  "goal intensity": "LIGHT_GAIN",
+  "calorie goal": 2288,
+  "carbs goal": 286,
+  "fat goal": 63,
+  "protein goal": 143,
+  "routine collection": [
+      {
+          "name": "Monday",
+          "workouts": [
+              {
+                  "name": "Barbell squats",
+                  "reps": 8,
+                  "sets": 4,
+                  "weight": 145,
+                  "muscle": "QUADS"
+              },
+              {
+                  "name": "Deadlifts",
+                  "reps": 9,
+                  "sets": 3,
+                  "weight": 135,
+                  "muscle": "HAMSTRINGS"
+              }
+          ]
+      },
+      {
+          "name": "Wednesday",
+          "workouts": [
+              {
+                  "name": "Hip thrusts",
+                  "reps": 9,
+                  "sets": 4,
+                  "weight": 205,
+                  "muscle": "GLUTES"
+              },
+              {
+                  "name": "Bench press",
+                  "reps": 10,
+                  "sets": 3,
+                  "weight": 45,
+                  "muscle": "CHEST"
+              }
+          ]
+      }
+  ],
+  "food log": [
+      {
+          "name": "2020-10-21",
+          "foods": [
+              {
+                  "name": "Sandwich",
+                  "meal": "BREAKFAST",
+                  "calories": 300,
+                  "carbs": 70,
+                  "fat": 2,
+                  "protein": 1
+              },
+              {
+                  "name": "Spicy pork",
+                  "meal": "DINNER",
+                  "calories": 700,
+                  "carbs": -1,
+                  "fat": -1,
+                  "protein": -1
+              }
+          ]
+      },
+      {
+        "name": "2020-10-20",
+        "foods": [
+          {
+            "name": "Grilled chicken",
+            "meal": "LUNCH",
+            "calories": 600,
+            "carbs": 0,
+            "fat": 5,
+            "protein": 60
+          },
+          {
+            "name": "Brownies",
+            "meal": "SNACKS",
+            "calories": 200,
+            "carbs": -1,
+            "fat": -1,
+            "protein": -1
+          }
+        ]
+      }
+  ]
+}

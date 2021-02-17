@@ -1,0 +1,98 @@
+{
+    "carbs goal": 286,
+    "routine collection": [
+        {
+            "workouts": [
+                {
+                    "reps": 8,
+                    "sets": 4,
+                    "muscle": "QUADS",
+                    "name": "Barbell squats",
+                    "weight": 145
+                },
+                {
+                    "reps": 9,
+                    "sets": 3,
+                    "muscle": "HAMSTRINGS",
+                    "name": "Deadlifts",
+                    "weight": 135
+                }
+            ],
+            "name": "Monday"
+        },
+        {
+            "workouts": [
+                {
+                    "reps": 9,
+                    "sets": 4,
+                    "muscle": "GLUTES",
+                    "name": "Hip thrusts",
+                    "weight": 205
+                },
+                {
+                    "reps": 10,
+                    "sets": 3,
+                    "muscle": "CHEST",
+                    "name": "Bench press",
+                    "weight": 45
+                }
+            ],
+            "name": "Wednesday"
+        }
+    ],
+    "fat goal": 63,
+    "activity": "MODERATELY_ACTIVE",
+    "food log": [
+        {
+            "foods": [
+                {
+                    "meal": "BREAKFAST",
+                    "carbs": 70,
+                    "protein": 1,
+                    "name": "Sandwich",
+                    "fat": 2,
+                    "calories": 300
+                },
+                {
+                    "meal": "DINNER",
+                    "carbs": -1,
+                    "protein": -1,
+                    "name": "Spicy pork",
+                    "fat": -1,
+                    "calories": 700
+                }
+            ],
+            "name": "2020-10-21"
+        },
+        {
+            "foods": [
+                {
+                    "meal": "LUNCH",
+                    "carbs": 0,
+                    "protein": 60,
+                    "name": "Grilled chicken",
+                    "fat": 5,
+                    "calories": 600
+                },
+                {
+                    "meal": "SNACKS",
+                    "carbs": -1,
+                    "protein": -1,
+                    "name": "Brownies",
+                    "fat": -1,
+                    "calories": 200
+                }
+            ],
+            "name": "2020-10-20"
+        }
+    ],
+    "calorie goal": 2288,
+    "sex": false,
+    "protein goal": 143,
+    "weight": 55,
+    "goal intensity": "LIGHT_GAIN",
+    "name": "General",
+    "weight goal": 60,
+    "age": 19,
+    "height": 165
+}

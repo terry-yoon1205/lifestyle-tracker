@@ -1,0 +1,15 @@
+{
+  "name": "Initial State",
+  "sex": true,
+  "age": 20,
+  "height": 170,
+  "weight": 70,
+  "activity": "LIGHTLY_ACTIVE",
+  "weight goal": 0,
+  "calorie goal": 0,
+  "carbs goal": -1,
+  "fat goal": -1,
+  "protein goal": -1,
+  "routine collection": [],
+  "food log": []
+}
